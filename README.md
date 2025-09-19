@@ -1,4 +1,4 @@
-UPPGIFT 3 - Intro till webbutveckling
+/H1 UPPGIFT 3 - Intro till webbutveckling
 
 En enkel webbapplikation i HTML, CSS och JavaScript.
 
